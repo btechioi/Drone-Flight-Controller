@@ -31,7 +31,7 @@ Welcome to the **Drone Flight Controller** repository! This project contains the
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/drone-flight-controller.git
+   git clone https://github.com/btechioi/Drone-Flight-Controller.git
    ```
 2. Open the firmware code (`flight_controller.ino`) in the Arduino IDE.
 3. Connect your microcontroller to your computer via USB.
